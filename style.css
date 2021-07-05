@@ -1,5 +1,5 @@
 body{
-    font-family: 'Indie Flower', cursive;
+    font-family: font-family: 'Karla', sans-serif;;
 }
 h1{
     font-size: 80px;
@@ -10,9 +10,12 @@ p{
 .orange-color{
     color: orangered;
 }
-section{
+.section-one{
     display: flex;
+    padding-bottom: 150px;
+
 }
+
 .half-width{
     width: 50%;
     padding-left: 5%;
@@ -28,8 +31,13 @@ section{
     border-radius: 10px;
 }
 .section-two{
-    background-image: url();
+    display: flex;
+    background-image: url(Frame\ 58.jpg);
+    background-position: right;
+    background-image: url(dream-bg.png);
     background-repeat: no-repeat;
+  
+    padding-bottom: 150px;
    
 }
 
