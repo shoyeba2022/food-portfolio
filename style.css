@@ -1,0 +1,35 @@
+body{
+    font-family: 'Indie Flower', cursive;
+}
+h1{
+    font-size: 80px;
+}
+p{
+    font-size: 50px;
+}
+.orange-color{
+    color: orangered;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+      width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 10px;
+}
+.section-two{
+    background-image: url();
+    background-repeat: no-repeat;
+   
+}
+
