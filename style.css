@@ -26,9 +26,14 @@ p{
 .link-button{
     text-decoration: none;
     background-color: orangered;
-    padding: 10px 40px;
+    padding-left: 20px ;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
     font-weight: 700;
     border-radius: 10px;
+
 }
 .section-two{
     display: flex;
@@ -36,8 +41,6 @@ p{
     background-position: right;
     background-image: url(dream-bg.png);
     background-repeat: no-repeat;
-  
     padding-bottom: 150px;
-   
 }
 
