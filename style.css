@@ -4,6 +4,9 @@ body{
 h1{
     font-size: 80px;
 }
+h2{
+    font-size: 65px;
+}
 p{
     font-size: 50px;
 }
@@ -25,13 +28,13 @@ p{
 }
 .link-button{
     text-decoration: none;
-    background-color: orangered;
-    padding-left: 20px ;
-    padding-right: 20px;
+    background-color: lightsalmon;
+    padding-left: 30px ;
+    padding-right: 30px;
     padding-top: 15px;
     padding-bottom: 15px;
 
-    font-weight: 700;
+    font-weight: 800;
     border-radius: 10px;
 
 }
@@ -43,4 +46,30 @@ p{
     background-repeat: no-repeat;
     padding-bottom: 150px;
 }
+#small{
+    font-size: 30px;
+}
+.fade{
+    width: 40%;
+    padding: 2%;
+    box-shadow: 10px 10px 30px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+}
+.section-three{
+    display: flex;
 
+}
+.sm{
+    font-size: 40px;
+}
+.alu{
+    width: 40%;
+    padding: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#background{
+    background-color:black;
+}
