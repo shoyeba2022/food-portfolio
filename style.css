@@ -3,9 +3,13 @@ body{
 }
 h1{
     font-size: 80px;
+    font-family: cursive;
+    font-weight: 700;
 }
 h2{
     font-size: 65px;
+    font-family: cursive;
+    font-weight: 700;
 }
 p{
     font-size: 50px;
